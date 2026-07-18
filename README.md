@@ -78,4 +78,4 @@ A premium developer portfolio showcasing projects, achievements, certifications,
 </p>
 ---
 
-⭐ If you like my work, consider following me and checking out my repositories!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
