@@ -76,3 +76,6 @@ A premium developer portfolio showcasing projects, achievements, certifications,
 </a>
 
 </p>
+---
+
+⭐ If you like my work, consider following me and checking out my repositories!
