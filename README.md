@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 💻 Full Stack Developer
-- 🤖 AI & Machine Learning Enthusiast
+- 🤖 AI & Machine Learning Developer
 - 📱 Android Developer
 - 🎨 UI/UX Designer & Graphic Designer
 - 🚀 Building modern web experiences with React, TypeScript & Three.js
