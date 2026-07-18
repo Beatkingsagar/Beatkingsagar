@@ -31,6 +31,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beatkingsagar&theme=github-compact&hide_border=true"/>
 </p>
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Beatkingsagar&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 🏆 Microsoft Learn Achievements
 
