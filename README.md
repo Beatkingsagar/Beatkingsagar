@@ -5,11 +5,12 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 CSE (AI & ML) Student
+
 - 💻 Full Stack Developer
 - 🤖 AI & Machine Learning Enthusiast
 - 📱 Android Developer
-- 🎨 Graphic Designer & Video Editor
+- 🎨 UI/UX Designer & Graphic Designer
+- 🚀 Building modern web experiences with React, TypeScript & Three.js
 ## 🚀 What I Build
 
 - 🤖 AI & Machine Learning Applications
@@ -40,15 +41,13 @@
 ## 🚀 Featured Projects
 
 ### 🌌 ISRO Odyssey
-An interactive 3D web experience inspired by ISRO's historic space missions, built with React, TypeScript, Three.js, and Vite.
+An immersive 3D space experience inspired by ISRO missions, built with React, Three.js, TypeScript, and Vite.
 
 ### 🕉️ Bhagavad Gita
-A cinematic and immersive Bhagavad Gita experience featuring Sanskrit verses, English translations, Kannada support, and divine animations.
+A cinematic spiritual web experience featuring Sanskrit verses, English translations, Kannada support, and immersive animations.
 
 ### 🌐 Personal Portfolio
-A modern portfolio showcasing my projects, certifications, achievements, skills, and experience.
-
-🔗 https://beatkingsagar.github.io
+A premium developer portfolio showcasing projects, achievements, certifications, and technical skills.
 
 ## 🏆 Microsoft Learn Achievements
 
