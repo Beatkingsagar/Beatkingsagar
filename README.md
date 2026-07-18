@@ -21,6 +21,18 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beatkingsagar&theme=github-compact&hide_border=true"/>
 </p>
+## 🚀 Featured Projects
+
+### 🌌 ISRO Odyssey
+An interactive 3D web experience inspired by ISRO's historic space missions, built with React, TypeScript, Three.js, and Vite.
+
+### 🕉️ Bhagavad Gita
+A cinematic and immersive Bhagavad Gita experience featuring Sanskrit verses, English translations, Kannada support, and divine animations.
+
+### 🌐 Personal Portfolio
+A modern portfolio showcasing my projects, certifications, achievements, skills, and experience.
+
+🔗 https://beatkingsagar.github.io
 
 ## 🏆 Microsoft Learn Achievements
 
