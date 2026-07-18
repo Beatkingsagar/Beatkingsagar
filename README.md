@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sagar 👋
 
-<!--
-**Beatkingsagar/Beatkingsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 CSE (AI & ML) Student
+- 💻 Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 📱 Android Developer
+- 🎨 Graphic Designer & Video Editor
 
-Here are some ideas to get you started:
+## 🏆 Microsoft Learn Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥇 [Achievement 1](https://learn.microsoft.com/api/achievements/share/en-us/SagarK-3349/4C32PWWK?sharingId=9CAD7EC42CC6CEE7)
+
+- 🥇 [Achievement 2](https://learn.microsoft.com/api/achievements/share/en-us/SagarK-3349/P6UZEM54?sharingId=9CAD7EC42CC6CEE7)
+
+- 🥇 [Achievement 3](https://learn.microsoft.com/api/achievements/share/en-us/SagarK-3349/4C324JDK?sharingId=9CAD7EC42CC6CEE7)
+
+- 🥇 [Achievement 4](https://learn.microsoft.com/api/achievements/share/en-us/SagarK-3349/H2QGHA68?sharingId=9CAD7EC42CC6CEE7)
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Beatkingsagar
