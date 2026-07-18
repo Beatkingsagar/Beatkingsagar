@@ -15,26 +15,11 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,java,python,c,androidstudio,git,github,vscode,figma,photoshop,blender&perline=8" />
 </p>
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beatkingsagar&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatkingsagar&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Beatkingsagar&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beatkingsagar&theme=github-compact&hide_border=true"/>
-</p>
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Beatkingsagar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🏆 Microsoft Learn Achievements
