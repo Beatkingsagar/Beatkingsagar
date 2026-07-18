@@ -15,6 +15,12 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,java,python,c,androidstudio,git,github,vscode,figma,photoshop,blender&perline=8" />
 </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Beatkingsagar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatkingsagar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 🏆 Microsoft Learn Achievements
 
