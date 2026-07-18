@@ -10,15 +10,22 @@
 - 🤖 AI & Machine Learning Enthusiast
 - 📱 Android Developer
 - 🎨 Graphic Designer & Video Editor
+## 🚀 What I Build
 
-## 🌱 Currently Learning
+- 🤖 AI & Machine Learning Applications
+- 🌐 Full Stack Web Applications
+- 📱 Android Applications
+- 🎨 Interactive 3D Web Experiences
+- ☁️ Cloud-Based Solutions
+- 🔓 Open Source Projects
+## 💼 Areas of Expertise
 
-- 🤖 Artificial Intelligence & Machine Learning
-- ☁️ Microsoft Azure
-- ⚛️ React & Three.js
-- 📱 Android Development
-- 🧠 Data Structures & Algorithms
-- 🚀 Open Source Development
+- Artificial Intelligence & Machine Learning
+- Full Stack Development
+- Android Development
+- 3D Web Development
+- UI/UX Design
+- Cloud Computing
 ## 💻 Tech Stack
 
 <p align="center">
