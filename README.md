@@ -10,7 +10,7 @@
 - 🤖 AI & Machine Learning Enthusiast
 - 📱 Android Developer
 - 🎨 Graphic Designer & Video Editor
-## 💻 Tech Stack
+
 ## 🌱 Currently Learning
 
 - 🤖 Artificial Intelligence & Machine Learning
@@ -19,6 +19,7 @@
 - 📱 Android Development
 - 🧠 Data Structures & Algorithms
 - 🚀 Open Source Development
+## 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,java,python,c,androidstudio,git,github,vscode,figma,photoshop,blender&perline=8" />
