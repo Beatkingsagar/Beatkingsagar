@@ -49,7 +49,7 @@ A cinematic spiritual web experience featuring Sanskrit verses, English translat
 ### 🌐 Personal Portfolio
 A premium developer portfolio showcasing projects, achievements, certifications, and technical skills.
 
-## 🏆 Microsoft Learn Achievements
+## 📜 Microsoft Certifications & Achievements
 
 - 🥇 [Achievement 1](https://learn.microsoft.com/api/achievements/share/en-us/SagarK-3349/4C32PWWK?sharingId=9CAD7EC42CC6CEE7)
 
